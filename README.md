@@ -1,4 +1,4 @@
-# financial-distress-prediction
+# Financial Distress Prediction
 
 Check out the jupyter notebook here: https://jovian.ai/olivelikes2chat/financial-distress-prediction
 
